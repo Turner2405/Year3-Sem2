@@ -1,0 +1,11 @@
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\bin\Debug\net8.0\RP1.Models.deps.json
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\bin\Debug\net8.0\RP1.Models.dll
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\bin\Debug\net8.0\RP1.Models.pdb
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.AssemblyInfoInputs.cache
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.AssemblyInfo.cs
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.csproj.CoreCompileInputs.cache
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.dll
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\refint\RP1.Models.dll
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\RP1.Models.pdb
+D:\Year 3\Sem2\ASP\RP1_L00183767\RP1.Models\obj\Debug\net8.0\ref\RP1.Models.dll
