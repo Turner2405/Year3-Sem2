@@ -1,0 +1,23 @@
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.AssemblyInfoInputs.cache
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.AssemblyInfo.cs
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.csproj.CoreCompileInputs.cache
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.deps.json
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.dll
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.pdb
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.dll
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\refint\FragranceStore- L00183767.Models.dll
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.pdb
+D:\Year 3\Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\ref\FragranceStore- L00183767.Models.dll
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.deps.json
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.dll
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\bin\Debug\net8.0\FragranceStore- L00183767.Models.pdb
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.AssemblyInfoInputs.cache
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.AssemblyInfo.cs
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.csproj.CoreCompileInputs.cache
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.sourcelink.json
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.dll
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\refint\FragranceStore- L00183767.Models.dll
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\FragranceStore- L00183767.Models.pdb
+C:\Users\ryant\Desktop\Year3-Sem2\ASP\FragranceStore- L00183767.Models\obj\Debug\net8.0\ref\FragranceStore- L00183767.Models.dll

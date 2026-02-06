@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.dataaccess\\rp1_l00183767.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48520D20-AB23-4FFD-AA84-9D72C971D614}|RP1.DataAccess\\RP1_L00183767.DataAccess.csproj|solutionrelative:rp1.dataaccess\\rp1_l00183767.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\admin\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\admin\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E3C142-9B11-47CE-8B30-C44C5332E46A}|RP1.Models\\RP1_L00183767.Models.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E3C142-9B11-47CE-8B30-C44C5332E46A}|RP1.Models\\RP1_L00183767.Models.csproj|solutionrelative:rp1.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\wwwroot\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|c:\\users\\ryant\\desktop\\year3-sem2\\asp\\rp1_l00183767\\rp1_l00183767\\rp1_l00183767.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A83B7B9-5ADF-4BC4-92AC-AF6588BE0DA7}|RP1_L00183767\\RP1_L00183767.csproj|solutionrelative:rp1_l00183767\\rp1_l00183767.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260206173709_Ver4.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs",
+              "RelativeToolTip": "RP1.DataAccess\\Migrations\\20260206173709_Ver4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:37:09.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\Repository\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "RP1.DataAccess\\Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:59:49.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "RP1.DataAccess\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:43:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "RP1.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:40:15.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "RP1.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T16:40:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Program.cs",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Program.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Program.cs",
+              "RelativeToolTip": "RP1_L00183767\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:59:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "RelativeToolTip": "RP1.DataAccess\\DataAccess\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:01:28.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:51:22.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T15:50:46.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:40:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T13:39:42.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T15:48:39.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:39:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T15:48:31.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RP1_L00183767.DataAccess",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\RP1_L00183767.DataAccess.csproj",
+              "RelativeDocumentMoniker": "RP1.DataAccess\\RP1_L00183767.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.DataAccess\\RP1_L00183767.DataAccess.csproj",
+              "RelativeToolTip": "RP1.DataAccess\\RP1_L00183767.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-06T16:38:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\appsettings.json",
+              "RelativeDocumentMoniker": "RP1_L00183767\\appsettings.json",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\appsettings.json",
+              "RelativeToolTip": "RP1_L00183767\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-21T15:55:39.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RP1_L00183767\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\appsettings.Development.json",
+              "RelativeToolTip": "RP1_L00183767\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T23:06:42.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Admin\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-26T13:40:33.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RP1.Models\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1.Models\\Models\\Category.cs",
+              "RelativeToolTip": "RP1.Models\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T14:01:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T16:03:24.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RP1_L00183767\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RP1_L00183767\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-26T14:46:18.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "RP1_L00183767\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "RP1_L00183767\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-26T14:32:15.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\wwwroot\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "RP1_L00183767\\wwwroot\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\wwwroot\\css\\bootstrap.css",
+              "RelativeToolTip": "RP1_L00183767\\wwwroot\\css\\bootstrap.css",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-26T14:32:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RP1_L00183767.csproj",
+              "DocumentMoniker": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\RP1_L00183767.csproj",
+              "RelativeDocumentMoniker": "RP1_L00183767\\RP1_L00183767.csproj",
+              "ToolTip": "C:\\Users\\ryant\\Desktop\\Year3-Sem2\\ASP\\RP1_L00183767\\RP1_L00183767\\RP1_L00183767.csproj",
+              "RelativeToolTip": "RP1_L00183767\\RP1_L00183767.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-21T15:44:18.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
